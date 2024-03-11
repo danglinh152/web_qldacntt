@@ -1,0 +1,31 @@
+.boxofpdf{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 900px;
+    padding: 50px;
+}
+
+.titleofpdf{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: #ef5759;
+    margin-left: 120px;
+}
+
+.titleofpdf_h2 + .titleofpdf_h2{
+    margin-left: 10px;
+}
+
+.pdf_1{
+
+}
+
+.pdf{
+    width: 650px;
+    height: 700px;
+}
